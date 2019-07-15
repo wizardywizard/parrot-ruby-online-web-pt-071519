@@ -1,2 +1,2 @@
-def parrot("Squawk!")
+def parrot(string)
 end
